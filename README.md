@@ -1,7 +1,7 @@
 
 ## Olá! Eu sou Raison Ribeiro. 👋
 
-![Raison's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaison&show_icons=true&theme=gruvbox)
+![Raison's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevRaison&show_icons=true&theme=dracula)
 
 ## Sobre mim:
 
