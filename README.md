@@ -33,4 +33,4 @@ Sou desenvolvedor full-stack.
 <img align="Center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
 </div><br>
 
-### Contato: raisoncontato@outlook.com 
+![Snake animation](https://github.com/DevRaison/DevRaison/blob/output/github-contribution-grid-snake.svg)
